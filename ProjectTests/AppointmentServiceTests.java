@@ -46,4 +46,3 @@ class AppointmentServiceTest {
 		assertEquals(false, AP.deleteAppointment("Hair Cut"));
 	}
 }
-
